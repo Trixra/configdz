@@ -1,0 +1,10 @@
+<app>
+  <name>MyApp</name>
+  <version>1.0</version>
+  <features>
+    <feature>Logging</feature>
+    <feature>Authentication</feature>
+  </features>
+  <const name="ENV" value="production"/>
+  <compute name="ENV"/>
+</app>

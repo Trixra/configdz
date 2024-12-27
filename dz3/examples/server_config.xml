@@ -1,0 +1,10 @@
+<server port="8080">
+  <!-- Server configuration -->
+  <host>localhost</host>
+  <routes>
+    <route path="/home" handler="homeHandler"/>
+    <route path="/login" handler="loginHandler"/>
+  </routes>
+  <const name="MAX_CONNECTIONS" value="100"/>
+  <compute name="MAX_CONNECTIONS"/>
+</server>

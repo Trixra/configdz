@@ -1,0 +1,4 @@
+<root>
+    <const name="PI" value="3.14"/>
+    <compute name="PI"/>
+</root>

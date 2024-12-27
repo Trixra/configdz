@@ -1,0 +1,12 @@
+<database>
+  <host>db.example.com</host>
+  <port>5432</port>
+  <user>dbuser</user>
+  <password>dbpass</password>
+  <tables>
+    <table name="users"/>
+    <table name="orders"/>
+  </tables>
+  <const name="TIMEOUT" value="30"/>
+  <compute name="TIMEOUT"/>
+</database>
