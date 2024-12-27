@@ -1,0 +1,527 @@
+2024-09-27 12:50:14,309 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:50:14,311 - __main__ - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpy59byy76
+2024-09-27 12:50:14,319 - __main__ - DEBUG - Emulator started
+2024-09-27 12:50:14,319 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 12:50:14,362 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 12:50:17,910 - __main__ - DEBUG - Executing command: ды
+2024-09-27 12:50:17,915 - __main__ - DEBUG - Command executed: ды
+2024-09-27 12:50:18,723 - __main__ - DEBUG - Executing command: ls
+2024-09-27 12:50:18,723 - __main__ - DEBUG - Listing files in current directory: C:\Users\lordp\AppData\Local\Temp\tmpy59byy76
+2024-09-27 12:50:18,731 - __main__ - DEBUG - Command executed: ls
+2024-09-27 12:50:22,663 - __main__ - DEBUG - Executing command: exit
+2024-09-27 12:50:22,663 - __main__ - DEBUG - Exiting emulator...
+2024-09-27 12:50:22,663 - __main__ - DEBUG - Cleaning up...
+2024-09-27 12:52:26,576 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:26,586 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmp_9_dq8z8
+2024-09-27 12:52:26,586 - core - DEBUG - Emulator started
+2024-09-27 12:52:26,586 - core - DEBUG - Changing directory: folder1
+2024-09-27 12:52:26,586 - core - DEBUG - Command executed: cd folder1
+2024-09-27 12:52:26,586 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:26,590 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmprvuq425z
+2024-09-27 12:52:26,590 - core - DEBUG - Emulator started
+2024-09-27 12:52:26,590 - core - DEBUG - Getting current date and time...
+2024-09-27 12:52:26,590 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:26,596 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpzvfei183
+2024-09-27 12:52:26,596 - core - DEBUG - Emulator started
+2024-09-27 12:52:26,596 - core - DEBUG - Listing files in current directory: C:\Users\lordp\AppData\Local\Temp\tmpzvfei183
+2024-09-27 12:52:26,596 - core - DEBUG - Command executed: ls
+2024-09-27 12:52:26,596 - core - DEBUG - Listing files in current directory: C:\Users\lordp\AppData\Local\Temp\tmpzvfei183
+2024-09-27 12:52:26,596 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:26,596 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpyi92j6ns
+2024-09-27 12:52:26,596 - core - DEBUG - Emulator started
+2024-09-27 12:52:27,601 - core - DEBUG - Getting uptime...
+2024-09-27 12:52:27,601 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:27,609 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpj37qwhuf
+2024-09-27 12:52:27,609 - core - DEBUG - Emulator started
+2024-09-27 12:52:27,609 - core - DEBUG - Getting current user...
+2024-09-27 12:52:27,612 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:27,612 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpefhq95vu
+2024-09-27 12:52:27,612 - core - DEBUG - Emulator started
+2024-09-27 12:52:28,617 - core - DEBUG - Getting uptime...
+2024-09-27 12:52:28,617 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:52:28,635 - core - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmp4j8m1tel
+2024-09-27 12:52:28,635 - core - DEBUG - Emulator started
+2024-09-27 12:52:28,635 - core - DEBUG - Getting current user...
+2024-09-27 12:58:46,570 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 12:58:46,580 - __main__ - DEBUG - VFS initialized: root_dir=C:\Users\lordp\AppData\Local\Temp\tmpzh7zc8ee
+2024-09-27 12:58:46,580 - __main__ - DEBUG - Emulator started
+2024-09-27 12:58:46,580 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 12:58:46,627 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:00:05,666 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:00:05,666 - __main__ - DEBUG - Listing files in current directory: C:\Users\lordp\AppData\Local\Temp\tmpzh7zc8ee
+2024-09-27 13:00:05,666 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:00:11,724 - __main__ - DEBUG - Executing command: whoami
+2024-09-27 13:00:11,724 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:00:11,726 - __main__ - DEBUG - Command executed: whoami
+2024-09-27 13:00:15,389 - __main__ - DEBUG - Executing command: date
+2024-09-27 13:00:15,389 - __main__ - DEBUG - Getting current date and time...
+2024-09-27 13:00:15,395 - __main__ - DEBUG - Command executed: date
+2024-09-27 13:00:20,988 - __main__ - DEBUG - Executing command: uptime
+2024-09-27 13:00:20,988 - __main__ - DEBUG - Getting uptime...
+2024-09-27 13:00:20,988 - __main__ - DEBUG - Command executed: uptime
+2024-09-27 13:00:43,337 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:43,337 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:43,339 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:44,360 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:44,360 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:44,360 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:45,170 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:45,170 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:45,170 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:45,980 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:45,980 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:45,980 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:48,243 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:48,243 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:48,245 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:49,492 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:49,492 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:49,492 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:50,639 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:00:50,639 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:00:50,639 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:00:51,791 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:00:51,791 - __main__ - DEBUG - Listing files in current directory: C:\Users\lordp\AppData\Local\Temp\tmpzh7zc8ee\..\..\..\..\..\..\..
+2024-09-27 13:00:51,793 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:06:15,153 - __main__ - DEBUG - Executing command: exit
+2024-09-27 13:06:15,153 - __main__ - DEBUG - Exiting emulator...
+2024-09-27 13:06:15,153 - __main__ - DEBUG - Cleaning up...
+2024-09-27 13:06:19,949 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:06:19,949 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:06:19,949 - __main__ - DEBUG - Emulator started
+2024-09-27 13:06:19,949 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:06:19,998 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:06:24,850 - __main__ - DEBUG - Executing command: ls]
+2024-09-27 13:06:24,850 - __main__ - DEBUG - Command executed: ls]
+2024-09-27 13:06:26,180 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:06:26,180 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:06:26,180 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:06:36,731 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:06:36,732 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:06:36,732 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:06:38,164 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:06:38,164 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:06:38,164 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:06:44,922 - __main__ - DEBUG - Executing command: whoami
+2024-09-27 13:06:44,922 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:06:44,922 - __main__ - DEBUG - Command executed: whoami
+2024-09-27 13:11:49,204 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:11:49,204 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:11:49,204 - __main__ - DEBUG - Emulator started
+2024-09-27 13:11:49,204 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:11:49,250 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:11:56,493 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:11:56,493 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:11:56,493 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:12:06,853 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:12:06,853 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:12:06,853 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:12:14,081 - __main__ - DEBUG - Executing command: cd folder1/file1.txt
+2024-09-27 13:12:14,081 - __main__ - DEBUG - Changing directory: folder1/file1.txt
+2024-09-27 13:12:14,081 - __main__ - DEBUG - Command executed: cd folder1/file1.txt
+2024-09-27 13:12:15,585 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:12:15,585 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:12:15,585 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:13:43,112 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:13:43,112 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:13:43,112 - __main__ - DEBUG - Emulator started
+2024-09-27 13:13:43,112 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:13:43,177 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:13:45,516 - __main__ - DEBUG - Executing command: ды
+2024-09-27 13:13:45,516 - __main__ - DEBUG - Command executed: ды
+2024-09-27 13:13:46,534 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:13:46,534 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:13:46,536 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:14:23,152 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:14:23,152 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:14:23,152 - __main__ - DEBUG - Emulator started
+2024-09-27 13:14:23,152 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:14:23,204 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:14:26,004 - __main__ - DEBUG - Executing command: ды
+2024-09-27 13:14:26,004 - __main__ - DEBUG - Command executed: ды
+2024-09-27 13:14:27,281 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:14:27,281 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:14:27,281 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:15:17,789 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:15:17,789 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:15:17,789 - __main__ - DEBUG - Emulator started
+2024-09-27 13:15:17,789 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:15:17,840 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:15:20,210 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:15:20,210 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:15:20,210 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:15:30,888 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:15:30,888 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:15:30,888 - __main__ - DEBUG - Emulator started
+2024-09-27 13:15:30,888 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:15:30,937 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:15:33,116 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:15:33,116 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:15:33,116 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:15:33,116 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:15:34,457 - __main__ - DEBUG - Executing command: ды
+2024-09-27 13:15:34,457 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:15:34,464 - __main__ - DEBUG - Command executed: ды
+2024-09-27 13:15:45,143 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:15:45,147 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:15:45,147 - __main__ - DEBUG - Emulator started
+2024-09-27 13:15:45,147 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:15:45,191 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:15:47,814 - __main__ - DEBUG - Executing command: ды
+2024-09-27 13:15:47,814 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:15:47,814 - __main__ - DEBUG - Command executed: ды
+2024-09-27 13:15:49,535 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:15:49,535 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:15:49,535 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:15:49,535 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:16:29,104 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:16:29,104 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:16:29,104 - __main__ - DEBUG - Emulator started
+2024-09-27 13:16:29,104 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:16:29,144 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:16:31,264 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:16:31,264 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:16:31,266 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:16:31,266 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:16:42,250 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:16:42,250 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:16:42,250 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:16:42,250 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:18:17,090 - __main__ - DEBUG - Executing command: exit
+2024-09-27 13:18:17,090 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:18:17,090 - __main__ - DEBUG - Exiting emulator...
+2024-09-27 13:18:17,090 - __main__ - DEBUG - Cleaning up...
+2024-09-27 13:19:27,259 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:19:27,259 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:19:27,259 - __main__ - DEBUG - Emulator started
+2024-09-27 13:19:27,259 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:19:27,301 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:19:29,920 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:19:29,920 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:19:29,922 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:19:29,922 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:19:31,753 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:19:31,753 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:19:31,753 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:19:31,753 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:19:36,748 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:19:36,748 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:19:36,748 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:19:36,750 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:19:43,406 - __main__ - DEBUG - Executing command: exit
+2024-09-27 13:19:43,406 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:19:43,406 - __main__ - DEBUG - Exiting emulator...
+2024-09-27 13:19:43,406 - __main__ - DEBUG - Cleaning up...
+2024-09-27 13:20:00,104 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:20:00,104 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:20:00,104 - __main__ - DEBUG - Emulator started
+2024-09-27 13:20:00,104 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:20:00,148 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:20:02,660 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:20:02,660 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:20:02,660 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:20:02,660 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:20:04,054 - __main__ - DEBUG - Executing command: cd folder
+2024-09-27 13:20:04,060 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:20:04,060 - __main__ - DEBUG - Changing directory: folder
+2024-09-27 13:20:04,060 - __main__ - DEBUG - Command executed: cd folder
+2024-09-27 13:20:06,642 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:20:06,642 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:20:06,642 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:20:06,642 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:20:11,296 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:20:11,296 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:20:11,296 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:20:11,298 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:20:13,072 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:20:13,072 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:20:13,072 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:20:13,072 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:21:24,727 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:21:24,736 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:21:24,736 - __main__ - DEBUG - Emulator started
+2024-09-27 13:21:24,736 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:21:24,791 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:21:27,475 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:21:27,475 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:27,483 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:21:27,483 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:21:29,309 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:21:29,309 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:29,309 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:21:29,309 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:21:30,324 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:21:30,324 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:30,324 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:21:30,324 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:21:35,816 - __main__ - DEBUG - Executing command: whoami
+2024-09-27 13:21:35,816 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:35,816 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:35,816 - __main__ - DEBUG - Command executed: whoami
+2024-09-27 13:21:39,766 - __main__ - DEBUG - Executing command: datetime
+2024-09-27 13:21:39,766 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:39,766 - __main__ - DEBUG - Command executed: datetime
+2024-09-27 13:21:47,991 - __main__ - DEBUG - Executing command: date
+2024-09-27 13:21:47,991 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:47,991 - __main__ - DEBUG - Getting current date and time...
+2024-09-27 13:21:47,994 - __main__ - DEBUG - Command executed: date
+2024-09-27 13:21:51,159 - __main__ - DEBUG - Executing command: uptime
+2024-09-27 13:21:51,159 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:51,159 - __main__ - DEBUG - Getting uptime...
+2024-09-27 13:21:51,162 - __main__ - DEBUG - Command executed: uptime
+2024-09-27 13:21:53,557 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:21:53,557 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:53,557 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:21:53,557 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:21:54,612 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:21:54,612 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:54,612 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:21:54,612 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:21:56,349 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:21:56,349 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:56,349 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:21:56,349 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:21:57,133 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:21:57,133 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:57,133 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:21:57,133 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:21:59,593 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:21:59,593 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:21:59,593 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:21:59,595 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:23:48,162 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:23:48,162 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:23:48,162 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:23:48,162 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:23:50,398 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:23:50,398 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:23:50,398 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:23:50,400 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:24:06,733 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:24:06,733 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:24:06,733 - __main__ - DEBUG - Emulator started
+2024-09-27 13:24:06,733 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:24:06,781 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:24:09,043 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:24:09,043 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:09,050 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:24:09,050 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:24:10,679 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:24:10,679 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:10,679 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:24:10,679 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:24:22,668 - __main__ - DEBUG - Executing command: cd /folder1
+2024-09-27 13:24:22,668 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:22,668 - __main__ - DEBUG - Changing directory: /folder1
+2024-09-27 13:24:22,668 - __main__ - DEBUG - Command executed: cd /folder1
+2024-09-27 13:24:26,208 - __main__ - DEBUG - Executing command: cd folder1/
+2024-09-27 13:24:26,208 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:26,208 - __main__ - DEBUG - Changing directory: folder1/
+2024-09-27 13:24:26,208 - __main__ - DEBUG - Command executed: cd folder1/
+2024-09-27 13:24:49,284 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:24:49,292 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:24:49,292 - __main__ - DEBUG - Emulator started
+2024-09-27 13:24:49,292 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:24:49,334 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:24:52,056 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:24:52,056 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:52,056 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:24:52,056 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:24:53,727 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:24:53,727 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:24:53,727 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:24:53,727 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:25:04,878 - __main__ - DEBUG - Executing command: cd folder1/file1.txt
+2024-09-27 13:25:04,878 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:25:04,878 - __main__ - DEBUG - Changing directory: folder1/file1.txt
+2024-09-27 13:25:04,878 - __main__ - DEBUG - Command executed: cd folder1/file1.txt
+2024-09-27 13:25:17,836 - __main__ - DEBUG - Executing command: cd folder1/file.txt/
+2024-09-27 13:25:17,836 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:25:17,836 - __main__ - DEBUG - Changing directory: folder1/file.txt/
+2024-09-27 13:25:17,836 - __main__ - DEBUG - Command executed: cd folder1/file.txt/
+2024-09-27 13:28:07,312 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:28:07,314 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:28:07,314 - __main__ - DEBUG - Emulator started
+2024-09-27 13:28:07,314 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:28:07,422 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:28:10,249 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:28:10,249 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:28:10,251 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:28:10,251 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:28:13,042 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:28:13,042 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:28:13,042 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:28:13,042 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:29:57,185 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:29:57,185 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:29:57,185 - __main__ - DEBUG - Emulator started
+2024-09-27 13:29:57,185 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:29:57,232 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:29:59,969 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:29:59,969 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:29:59,969 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:29:59,969 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:30:01,535 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:30:01,535 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:01,538 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:30:01,538 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:30:02,721 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:30:02,721 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:02,721 - __main__ - DEBUG - Listing files in current directory: folder1/
+2024-09-27 13:30:02,721 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:30:06,683 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:30:06,683 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:06,683 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:30:06,683 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:30:07,216 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:30:07,216 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:07,216 - __main__ - DEBUG - Listing files in current directory: folder1
+2024-09-27 13:30:07,216 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:30:14,813 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:30:14,813 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:14,813 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:30:14,813 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:30:15,679 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:30:15,679 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:30:15,679 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:30:15,680 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:31:08,530 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:31:08,530 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:31:08,532 - __main__ - DEBUG - Emulator started
+2024-09-27 13:31:08,533 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:31:08,574 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:31:10,966 - __main__ - DEBUG - Executing command: ды
+2024-09-27 13:31:10,971 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:10,973 - __main__ - DEBUG - Command executed: ды
+2024-09-27 13:31:12,274 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:31:12,274 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:12,274 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:31:12,274 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:31:14,262 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:31:14,262 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:14,262 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:31:14,262 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:31:15,035 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:31:15,035 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:15,035 - __main__ - DEBUG - Listing files in current directory: folder1/
+2024-09-27 13:31:15,035 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:31:16,041 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:31:16,041 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:16,041 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:31:16,043 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:31:16,964 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:31:16,964 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:31:16,964 - __main__ - DEBUG - Listing files in current directory: folder1
+2024-09-27 13:31:16,964 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:32:35,628 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:32:35,628 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:32:35,628 - __main__ - DEBUG - Emulator started
+2024-09-27 13:32:35,628 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:32:35,679 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:32:37,984 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:32:37,984 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:32:37,986 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:32:37,986 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:32:39,511 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:32:39,511 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:32:39,511 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:32:39,511 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:32:40,207 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:32:40,207 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:32:40,207 - __main__ - DEBUG - Listing files in current directory: folder1/
+2024-09-27 13:32:40,207 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:32:41,268 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:32:41,268 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:32:41,268 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:32:41,269 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:32:42,580 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:32:42,580 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:32:42,580 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:32:42,580 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:33:05,292 - __main__ - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:33:05,292 - __main__ - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:33:05,292 - __main__ - DEBUG - Emulator started
+2024-09-27 13:33:05,292 - __main__ - DEBUG - Initializing GUI...
+2024-09-27 13:33:05,332 - __main__ - DEBUG - Starting GUI main loop...
+2024-09-27 13:33:11,300 - __main__ - DEBUG - Executing command: 
+2024-09-27 13:33:12,634 - __main__ - DEBUG - Executing command: pef
+2024-09-27 13:33:12,634 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:12,634 - __main__ - DEBUG - Command executed: pef
+2024-09-27 13:33:14,203 - __main__ - DEBUG - Executing command: pwd
+2024-09-27 13:33:14,203 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:14,203 - __main__ - DEBUG - Command executed: pwd
+2024-09-27 13:33:15,309 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:33:15,309 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:15,309 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:33:15,309 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:33:18,282 - __main__ - DEBUG - Executing command: cd asdsad
+2024-09-27 13:33:18,282 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:18,282 - __main__ - DEBUG - Changing directory: asdsad
+2024-09-27 13:33:18,282 - __main__ - DEBUG - Command executed: cd asdsad
+2024-09-27 13:33:19,203 - __main__ - DEBUG - Executing command: cd //
+2024-09-27 13:33:19,203 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:19,203 - __main__ - DEBUG - Changing directory: //
+2024-09-27 13:33:19,203 - __main__ - DEBUG - Command executed: cd //
+2024-09-27 13:33:20,128 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:33:20,128 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:20,128 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:33:20,128 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:33:20,978 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:33:20,978 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:20,978 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:33:20,978 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:33:21,794 - __main__ - DEBUG - Executing command: cd ..
+2024-09-27 13:33:21,794 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:21,794 - __main__ - DEBUG - Changing directory: ..
+2024-09-27 13:33:21,794 - __main__ - DEBUG - Command executed: cd ..
+2024-09-27 13:33:22,478 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:33:22,478 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:22,478 - __main__ - DEBUG - Listing files in current directory: 
+2024-09-27 13:33:22,478 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:33:28,554 - __main__ - DEBUG - Executing command: cd folder12
+2024-09-27 13:33:28,554 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:28,554 - __main__ - DEBUG - Changing directory: folder12
+2024-09-27 13:33:28,554 - __main__ - DEBUG - Command executed: cd folder12
+2024-09-27 13:33:34,812 - __main__ - DEBUG - Executing command: cd folder1
+2024-09-27 13:33:34,812 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:34,812 - __main__ - DEBUG - Changing directory: folder1
+2024-09-27 13:33:34,820 - __main__ - DEBUG - Command executed: cd folder1
+2024-09-27 13:33:36,435 - __main__ - DEBUG - Executing command: ls
+2024-09-27 13:33:36,435 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:33:36,435 - __main__ - DEBUG - Listing files in current directory: folder1/
+2024-09-27 13:33:36,435 - __main__ - DEBUG - Command executed: ls
+2024-09-27 13:34:47,423 - __main__ - DEBUG - Executing command: exit
+2024-09-27 13:34:47,423 - __main__ - DEBUG - Getting current user...
+2024-09-27 13:34:47,423 - __main__ - DEBUG - Exiting emulator...
+2024-09-27 13:34:47,423 - __main__ - DEBUG - Cleaning up...
+2024-09-27 13:34:54,832 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:54,832 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:54,832 - core - DEBUG - Emulator started
+2024-09-27 13:34:54,832 - core - DEBUG - Changing directory: folder1
+2024-09-27 13:34:54,832 - core - DEBUG - Command executed: cd folder1
+2024-09-27 13:34:54,837 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:54,837 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:54,837 - core - DEBUG - Emulator started
+2024-09-27 13:34:54,837 - core - DEBUG - Getting current date and time...
+2024-09-27 13:34:54,837 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:54,837 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:54,837 - core - DEBUG - Emulator started
+2024-09-27 13:34:54,837 - core - DEBUG - Listing files in current directory: 
+2024-09-27 13:34:54,837 - core - DEBUG - Command executed: ls
+2024-09-27 13:34:54,837 - core - DEBUG - Listing files in current directory: 
+2024-09-27 13:34:54,837 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:54,837 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:54,837 - core - DEBUG - Emulator started
+2024-09-27 13:34:55,841 - core - DEBUG - Getting uptime...
+2024-09-27 13:34:55,841 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:55,844 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:55,844 - core - DEBUG - Emulator started
+2024-09-27 13:34:55,844 - core - DEBUG - Getting current user...
+2024-09-27 13:34:55,848 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:55,850 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:55,850 - core - DEBUG - Emulator started
+2024-09-27 13:34:56,850 - core - DEBUG - Getting uptime...
+2024-09-27 13:34:56,851 - core - DEBUG - Config read: vfs_path=virtual_fs.zip, startup_script=startup_script.sh
+2024-09-27 13:34:56,853 - core - DEBUG - VFS initialized: vfs_path=virtual_fs.zip
+2024-09-27 13:34:56,853 - core - DEBUG - Emulator started
+2024-09-27 13:34:56,853 - core - DEBUG - Getting current user...

@@ -1,0 +1,4 @@
+<config>
+    <vfs_path>virtual_fs.zip</vfs_path>
+    <startup_script>startup_script.sh</startup_script>
+</config>
